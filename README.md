@@ -1,1 +1,1 @@
-**Note:** Run these files using SASM, or ensure you add the required linker for proper execution.
+**Note:** Run these files using SASM, or ensure you add the required routine for proper execution.
